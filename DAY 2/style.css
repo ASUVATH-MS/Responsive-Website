@@ -1,0 +1,36 @@
+.bg
+{
+    background-image: url(./images/bg.jpg);
+    background-size: 100% 100% ;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100%;
+
+}
+.logo
+{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 5vw;
+    color: antiquewhite;
+}
+.title
+{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 2vw;
+    color: antiquewhite;
+    margin-top: 2vh;
+}
+.title2
+{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: aquamarine;
+    margin-left: 2vw;
+}
+.content
+{
+    color: chartreuse;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 5vh;
+    background-color: rgba(6, 6, 131,0.5);
+    border-radius: 10vh;
+}
